@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include"LinkList.h"
+#include"..\Headers\LinkList.h"
 
 void LinkNode1Menu() //µ¥Á´±í²Ëµ¥
 {

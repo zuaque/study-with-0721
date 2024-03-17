@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include"LinkList.h"
+#include"..\Headers\LinkList.h"
 
 linknode1* reverse1(linknode1* head) 
 {

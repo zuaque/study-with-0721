@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
-#include"LinkList.h"
+#include"..\Headers\LinkList.h"
 
 
 int main()

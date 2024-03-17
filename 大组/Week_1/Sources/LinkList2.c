@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include"LinkList.h"
+#include"..\Headers\LinkList.h"
 
 linknode2* Createlinknode2(linknode2* head, int a)
 {
