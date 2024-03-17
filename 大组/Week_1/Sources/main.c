@@ -10,15 +10,15 @@ int main()
 	int main_choice=0;
 	while (main_choice != 7)
 	{
-		printf("\n链表总菜单\n");
-		printf("1.单链表ADT\n");
-		printf("2.双向链表ADT\n");
-		printf("3.单链表奇偶转换\n");
-		printf("4.找到单链表中点\n");
-		printf("5.判断链表是否成环\n");
-		printf("6.反转链表\n");
-		printf("7.退出程序\n");
-		printf("请输入选项标号：");
+        printf("\n链表总菜单\n");
+        printf("1.单链表ADT\n");
+        printf("2.双向链表ADT\n");
+        printf("3.单链表奇偶转换\n");
+        printf("4.找到单链表中点\n");
+        printf("5.判断链表是否成环\n");
+        printf("6.反转链表\n");
+        printf("7.退出程序\n");
+        printf("请输入选项标号：");
 		scanf("%d", &main_choice);
 		getchar();
 		system("cls");
